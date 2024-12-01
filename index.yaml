@@ -3,12 +3,12 @@ entries:
   kubernetes-incident-management-system:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-02T00:18:53.332716+05:30"
+    created: "2024-12-02T00:34:03.354091+05:30"
     description: A Helm chart for Kubernetes
-    digest: fc19200cc3c0d4816d92c177be9a2f675685eb230150a4763a7c96d197660e4d
+    digest: 744a0173e4fce413c01b04c917f6b06428b869f1f2ccd74697c772984585776d
     name: kubernetes-incident-management-system
     type: application
     urls:
     - https://arjunbabuust.github.io/kims/kubernetes-incident-management-system-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-02T00:18:53.330031+05:30"
+generated: "2024-12-02T00:34:03.352476+05:30"
